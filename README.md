@@ -24,6 +24,7 @@ For more tutorials and reference material, see https://docs.databricks.com/dlt.
 
 Successful read of json: (Must update link based on databricks and add auth bearer token in postman / the request)
 Must also create an authorization token in DataBricks UI
+
 https://dbc-394e6439-48e4.cloud.databricks.com/api/2.0/fs/files/Volumes/hole_in_one/hole_in_one_schema/hole_in_one_volume/data_bronze.json
 
 https://dbc-394e6439-48e4.cloud.databricks.com/api/2.0/fs/files/Volumes/hole_in_one/hole_in_one_schema/hole_in_one_volume/data_silver.json
